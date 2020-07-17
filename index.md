@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-
-<html>
-
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Mulish" family=Mulish rel="stylesheet" type="text/css">
@@ -50,5 +46,3 @@
 </body>
 
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-
-</html>
